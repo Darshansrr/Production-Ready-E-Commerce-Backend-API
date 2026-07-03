@@ -240,13 +240,4 @@ http://localhost:5000/redoc
 
 ---
 
-## 🔒 Security
 
-- Password Hashing (Bcrypt)
-- JWT Authentication
-- Input Validation
-- CORS Protection
-- Environment-Based Configuration
-- Structured Exception Handling
-
----
