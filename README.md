@@ -209,7 +209,7 @@ http://localhost:5000/redoc
 
 ## 📡 API Response Format
 
-### Success Response
+###   ✅ Success Response
 
 ```json
 {
@@ -220,7 +220,7 @@ http://localhost:5000/redoc
 }
 ```
 
-### Error Response
+###   ❌ Error Response
 
 ```json
 {
@@ -240,4 +240,13 @@ http://localhost:5000/redoc
 
 ---
 
+## 🔒 Security
 
+- Password Hashing (Bcrypt)
+- JWT Authentication
+- Input Validation
+- CORS Protection
+- Environment-Based Configuration
+- Structured Exception Handling
+
+---
