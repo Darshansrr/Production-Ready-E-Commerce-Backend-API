@@ -250,13 +250,3 @@ http://localhost:5000/redoc
 - Structured Exception Handling
 
 ---
-
-## 👨‍💻 Author
-
-**Md. Mohin Uddin Rubel**
-
-Backend Developer | Full Stack Developer
-
-Building scalable and production-ready web applications using modern technologies.
-
----
